@@ -71,6 +71,7 @@
   <ol>
     <li><strong>Tên đồ án</strong>: Phân Loại Ngữ Nghĩa Hình Ảnh Thực Phẩm</li>
   </ol>
-  ![image](https://github.com/hason8193/CS311-Advanced-Computer-Vision/blob/ecde0b0a958602b9984549b09d5c56e36ba823c5/food_segmentation.png?raw=true)
+  ![image](https://raw.githubusercontent.com/hason8193/CS311-Advanced-Computer-Vision/ecde0b0a958602b9984549b09d5c56e36ba823c5/food_segmentation.png)
+
 
 </section>
