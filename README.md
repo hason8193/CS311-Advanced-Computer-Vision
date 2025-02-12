@@ -71,4 +71,6 @@
   <ol>
     <li><strong>Tên đồ án</strong>: Phân Loại Ngữ Nghĩa Hình Ảnh Thực Phẩm</li>
   </ol>
+  ![image](https://github.com/user-attachments/assets/588d8bf2-f96d-49b2-82a3-b4d818f212c2)
+
 </section>
